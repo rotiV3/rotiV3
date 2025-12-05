@@ -1,67 +1,67 @@
-# Project Title
-Short description (1–2 lines): what it is and what problem it solves.
+# Vitor Zezere — Junior C# Developer
 
 
-## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Architecture](#architecture)
-- [Contributing](#contributing)
-- [License](#license)
+Welcome to my GitHub! 
+I am a **Junior C# Developer** passionate about building practical applications that solve real-world problems. My work focuses on **C#, .NET, ASP.NET Core, WPF, SQL, automation, and clean software architecture**.
+
+This README serves as my **developer portfolio**, showcasing my skills, projects, tech stack, and learning journey.
+
+---
+
+## 🚀 About Me
+- Junior C# Developer focused on backend and full-stack development
+- Strong problem-solving, continuous improvement mindset, and teamwork
+- Experience building MVPs, automating workflows, and improving business processes
+- Passionate about creating software that makes people’s lives easier
+
+---
+
+## 🧠 Tech Stack
+### **Languages**
+- C#
+- SQL
+- Python (automation & ML basics)
 
 
-## Demo
-Link to a demo or GIF/screencast
+### **Frameworks & Technologies**
+- .NET 8 / .NET 9
+- ASP.NET Core (MVC + Minimal APIs)
+- WPF
+- Entity Framework Core
+- REST APIs
 
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+### **Tools & DevOps**
+- Git & GitHub
+- Docker
+- CI/CD basics (GitHub Actions)
+- Postman
 
 
-## Tech Stack
-- C# (.NET)
-- ASP.NET Core / WPF
-- SQL Server / MySQL
-- Docker (if used)
+### **Databases**
+- SQL Server
+- MySQL
 
 
-## Installation
-1. Clone the repo
-```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-```
-2. Open the solution in Visual Studio
-3. Configure the connection string in `appsettings.json`
-4. Build and run
+### **Other Skills**
+- Advanced Microsoft Excel
+- Automation scripting
+- Process improvement mindset (Kaizen, Lean Six Sigma)
 
 
-## Usage
-Explain how to use the app, commands, environment variables, etc.
+---
 
 
-## Screenshots
-![Screenshot](./screens/screenshot1.png)
+## 🧩 Featured Projects
 
 
-## Architecture
-Briefly describe the architecture, important folders and patterns used (e.g., layered architecture, services, repositories).
+### 🎮 **Game Overlay**
+A desktop overlay tool that displays real-time data during gameplay.
 
+**Tech:** C#, .NET, Windows APIs
+**Repo:** <project-link>
 
-## Contributing
-Guidelines for contributions
-
-
-## License
-Specify the license (MIT, Apache 2.0, etc.)
-
-
-## Contact
-Your Name — your.email@example.com
+**Highlights:**
+- Real-time UI rendering
+- Input handling and overlay transparency
 Project Link: https://github.com/yourusername/yourproject
