@@ -1,67 +1,73 @@
-# Vitor Zezere — Junior C# Developer
+# Vitor Zezere · `rotiV3`
 
-
-Welcome to my GitHub! 
-I am a **Junior C# Developer** passionate about building practical applications that solve real-world problems. My work focuses on **C#, .NET, ASP.NET Core, WPF, SQL, automation, and clean software architecture**.
-
-This README serves as my **developer portfolio**, showcasing my skills, projects, tech stack, and learning journey.
+> Full-stack developer · C# · TypeScript · React · AI-augmented workflows
 
 ---
 
-## 🚀 About Me
-- Junior C# Developer focused on backend and full-stack development
-- Strong problem-solving, continuous improvement mindset, and teamwork
-- Experience building MVPs, automating workflows, and improving business processes
-- Passionate about creating software that makes people’s lives easier
+## About Me
+
+Backend and full-stack developer focused on building practical software that solves real problems. I use **Claude AI** as a core part of my development workflow — accelerating everything from TypeScript/React frontend work to full-stack application architecture, making me significantly more efficient and effective as a developer.
+
+---
+
+## 🤖 AI-Augmented Development
+
+I actively use **Claude AI** to boost productivity and code quality across my stack:
+
+- **TypeScript & React** — component design, typing, refactoring, and best practices
+- **Full-stack architecture** — planning and building complete applications end-to-end, faster
+- **Code review & debugging** — catching issues and improving code structure with AI assistance
+- **Learning acceleration** — picking up new frameworks and patterns with AI as a learning partner
+
+Working with AI isn't a shortcut — it's a force multiplier that lets me ship better software, faster.
 
 ---
 
 ## 🧠 Tech Stack
-### **Languages**
-- C#
-- SQL
-- Python (automation & ML basics)
 
+**Languages**
+`C#` `TypeScript` `SQL` `Python` `HTML/CSS`
 
-### **Frameworks & Technologies**
-- .NET 8 / .NET 9
-- ASP.NET Core (MVC + Minimal APIs)
-- WPF
-- Entity Framework Core
-- REST APIs
+**Frameworks & Runtimes**
+`.NET 8/9` `ASP.NET Core` `React` `WPF` `Entity Framework Core`
 
+**Tools & DevOps**
+`Git & GitHub` `Docker` `GitHub Actions` `Postman`
 
-### **Tools & DevOps**
-- Git & GitHub
-- Docker
-- CI/CD basics (GitHub Actions)
-- Postman
+**Databases**
+`SQL Server` `MySQL`
 
-
-### **Databases**
-- SQL Server
-- MySQL
-
-
-### **Other Skills**
-- Advanced Microsoft Excel
-- Automation scripting
-- Process improvement mindset (Kaizen, Lean Six Sigma)
-
+**Other**
+`REST APIs` `Automation scripting` `Advanced Excel` `Lean Six Sigma mindset`
 
 ---
 
+## 🖥️ Home Lab — Proxmox Cluster
 
-## 🧩 Featured Projects
+I run a **Proxmox cluster** at home for:
 
+- Self-hosting services and applications
+- Spinning up isolated dev and test environments
+- Experimenting with infrastructure, networking, and containerisation
+- Keeping real-world ops skills sharp alongside software development
 
-### 🎮 **Game Overlay**
-A desktop overlay tool that displays real-time data during gameplay.
+It's my personal sandbox for learning by doing — from VM management to deploying full applications on real infrastructure.
 
-**Tech:** C#, .NET, Windows APIs
-**Repo:** <project-link>
+---
 
-**Highlights:**
-- Real-time UI rendering
-- Input handling and overlay transparency
-Project Link: https://github.com/yourusername/yourproject
+## 🧩 Projects
+
+| Project | Description | Built With | AI-Assisted |
+|---------|-------------|------------|-------------|
+| [UpdateWhalley](https://github.com/rotiV3/UpdateWhalley) | Web project — open source | HTML | — |
+| *(more coming)* | | | |
+
+> 💡 I'll be sharing more repositories here — some built with Claude's help, some without — to showcase the real difference AI assistance makes in the development process.
+
+---
+
+## 📍 Links
+
+- 🌐 [zeration.com](https://zeration.com)
+- 🌐 [vzezere.com](https://vzezere.com)
+- 💼 [github.com/rotiV3](https://github.com/rotiV3)
